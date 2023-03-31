@@ -1,6 +1,6 @@
 {
-  "name": "LLLL",
-  "description": "kokot",
+  "name": "debile",
+  "description": "kokotskej",
   "version": "1.0",
   "authors": [
     {
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/1091447453036847134/1091467884942852176/ThemeImage.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1091447453036847134/1091469934573404200/ThemeImage.jpg",
     "alpha": 1.0
   }
 }
