@@ -1,11 +1,11 @@
 {
-  "name": "debile",
-  "description": "kokotskej",
+  "name": "pomrdana",
+  "description": "kokotina's personal theme",
   "version": "1.0",
   "authors": [
     {
-      "name": "zoddy#6969",
-      "id": "696969969696969669"
+      "name": "mrdak#6969",
+      "id": "7062411650881548"
     }
   ],
   "theme_color_map": {
@@ -148,8 +148,8 @@
     "CHAT_GREY": "#000000"
   },
   "background": {
-    "blur": 0.1,
+    "blur": 1.0,
     "url": "https://cdn.discordapp.com/attachments/1091447453036847134/1091469934573404200/ThemeImage.jpg",
-    "alpha": 1.0
+    "alpha": 3.0
   }
 }
