@@ -1,6 +1,6 @@
 {
-  "name": "mrdka",
-  "description": "kunda",
+  "name": "LLLL",
+  "description": "kokot",
   "version": "1.0",
   "authors": [
     {
@@ -148,8 +148,8 @@
     "CHAT_GREY": "#000000"
   },
   "background": {
-    "blur": 0,
-    "url": "https://media.discordapp.net/attachments/1091447453036847134/1091465532584231063/mrdko.jpg",
+    "blur": 0.1,
+    "url": "https://cdn.discordapp.com/attachments/1091447453036847134/1091467884942852176/ThemeImage.jpg",
     "alpha": 1.0
   }
 }
