@@ -1,11 +1,11 @@
 {
-  "name": "rgflkjgrljsfljsdflkj",
-  "description": "kokotina's personal theme",
+  "name": "itachi_one",
+  "description": "slick's personal theme",
   "version": "1.0",
   "authors": [
     {
-      "name": "mrdak#6969",
-      "id": "7062411650881548"
+      "name": "slick787#4121",
+      "id": "706241165090881548"
     }
   ],
   "theme_color_map": {
@@ -149,7 +149,7 @@
   },
   "background": {
     "blur": 1.0,
-    "url": "https://cdn.discordapp.com/attachments/1003773399107117127/1057393352418529380/ThemeImage.jpg",
+    "url": "https://cdn.discordapp.com/attachments/1091447453036847134/1091469934573404200/ThemeImage.jpg",
     "alpha": 3.0
   }
 }
